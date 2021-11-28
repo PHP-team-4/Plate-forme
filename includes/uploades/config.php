@@ -1,8 +1,8 @@
 <?php
 
 $sname= "localhost";
-$unmae= "root";
+$usermae= "root";
 $password = "";
-$db_name = "plateforme_tadlaoui";
+$db_name = "plateforme";
 
-$conn = mysqli_connect($sname, $unmae, $password, $db_name);
+$conn = mysqli_connect($sname, $usernmae, $password, $db_name);
