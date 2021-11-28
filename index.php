@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="css/main2.css" />
-    <title>PlateForme GROPE TADLAOUI</title>
+    <title>PlateForme</title>
   </head>
   <body>
    
