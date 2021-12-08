@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="css/main2.css" />
-    <title>PlateForme GROPE TADLAOUI</title>
+    <title>PlateForme</title>
   </head>
   <body>
    
@@ -93,31 +93,7 @@
      <script src="js/main.js">
          
    </script>
-            <div class="social-media">
-            <a  target="_blank" href="http://groupetadlaoui.ma/">
-              <img src="img/logo-1.png"  alt="GROPE TADLAOUI" class="GROPEt">
-            </a>
-            <p class="description">
-                      Le Groupe TADLAOUI est un des opérateurs économiques leaders au Maroc. Il dispose d’un grand savoir-faire industriel et une parfaite maîtrise des techniques de production et de distribution.
-          Le groupe dispose d’unités de production, de stockage et de distribution dans l’ensemble du Maroc.
-          </p>
-        
-            <p class="social-text">Contact us with social platforms</p>
-            <div class="social-media-icon">
-            <a href="https://www.facebook.com/Doussy-1798116193768125/" class="social-icon">
-                <i class="fab fa-facebook-f"></i>
-              </a>
-              <a href="https://www.youtube.com/channel/UCGux1JiIHtygwTVkw1JBfJQ" class="social-icon">
-                <i class="fab fa-youtube"></i>
-              </a>
-              <a href="mailto:contact@groupetadlaoui.ma" class="social-icon">
-                <i class="fab fa-google"></i>
-              </a>
-              <a href="https://www.linkedin.com/in/groupe-tadlaoui-121480172/" class="social-icon">
-                <i class="fab fa-linkedin-in"></i>
-              </a>
-              </div>
-            </div>
+           
       <script>
          const loginText = document.querySelector(".title-text .login");
          const loginForm = document.querySelector("form.login");
