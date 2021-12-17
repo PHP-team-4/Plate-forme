@@ -30,7 +30,9 @@ Ce stage m’a permis de passer à la pratique de ce que j’ai appris en théor
 
 ▪	Page de login :
 Pour authentifier les utilisateurs de l’environnement qui sont les responsables du service . La page va contenir un espace pour entrer le nom d’utilisateur et le mot de passe.
+
 ▪	Pages ajouter élément / ajouté client /ajouter admin par l'admin principale.
+
 ▪	Page d'utilisateur : Permet de partager les publications charger et télécharger les ficher (.docx, .pdf,.zip, .png, .jpg).
-▪	Page admin : permet de gérer l'accès est bloqué par l'utilisateur, l'administrateur a possibilité d'accès une table les fichies, et partage également charger et télécharger les publications de fichiers (.docx,
-.pdf, .zip, .png, .jpg)
+
+▪	Page admin : permet de gérer l'accès est bloqué par l'utilisateur, l'administrateur a possibilité d'accès une table les fichies, et partage également charger et télécharger les publications de fichiers (.docx,.pdf, .zip, .png, .jpg)
